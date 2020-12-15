@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0.svg?token=DuzqB2C9jqGBGDcLSRjq&branch=master)](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0)
+[![Build Status](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0.svg?token=DuzqB2C9jqGBGDcLSRjq&branch=main)](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0)
 
 # Cookiecutter for Machine Learning - Regression
 
