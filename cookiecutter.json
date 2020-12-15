@@ -1,0 +1,13 @@
+{
+    "full_name": "R J",
+    "email": "rej543@g.harvard.edu",
+    "github_username": "csci-e-29",
+    "project_name": "psets",
+    "repo_name": "2020fa-{{ cookiecutter.project_name|lower|replace(' ','-') }}-rpc0",
+    "project_slug": "{{ cookiecutter.project_name|lower|replace(' ','_') }}",
+    "install_csci_utils": ["yes", "no"],
+    "project_short_description": "A short description of the project",
+    "release_date": "{% now 'local' %}",
+    "version": "0.1.0",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
