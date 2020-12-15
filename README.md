@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0.svg?token=DuzqB2C9jqGBGDcLSRjq&branch=master)](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0)
+[![Build Status](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0.svg?token=DuzqB2C9jqGBGDcLSRjq&branch=main)](https://travis-ci.com/rpc0/2020fa-cookiecutter-csci-ml-rpc0)
 
 # Cookiecutter for Machine Learning - Regression
 
@@ -10,7 +10,6 @@ To generate a project using this cookiecutter, from the parent folder of the fol
 
 In the cookiecutter menu, choose your options. If you are not part of csci-e-29 organization in github, leave out csci-uils. The files that went into csci-utils are available in the utils folder generated for you; from orchestrate.py file in orchestration folder, remove the 2 occurrences of ```csci-utils``` (leave the ```.``` after ```csci-utils``` in place), and you should be all set.
 
-Sample project built using this cookiecutter-ml is on the [wine dataset](https://github.com/csci-e-29/2020fa-final-project-rpc0).
 
 ## Structure of the generated files
 
